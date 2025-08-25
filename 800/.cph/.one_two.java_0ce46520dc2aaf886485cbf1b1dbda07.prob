@@ -1,0 +1,1 @@
+{"name":"Local: one_two","url":"c:\\Users\\aksha\\OneDrive\\Desktop\\Codeforces\\800\\one_two.java","tests":[{"id":1739211655282,"input":"3\n6\n2 2 1 2 1 2\n3\n1 2 1\n4\n1 1 1 1\n","output":"2\n-1\n1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\aksha\\OneDrive\\Desktop\\Codeforces\\800\\one_two.java","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: grasshopper","url":"c:\\Users\\aksha\\OneDrive\\Desktop\\Codeforces\\800\\grasshopper.java","tests":[{"id":1738693343483,"input":"3\n10 2\n10 3\n3 4\n","output":"2\n7 3\n1\n10\n1\n3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\aksha\\OneDrive\\Desktop\\Codeforces\\800\\grasshopper.java","group":"local","local":true}
