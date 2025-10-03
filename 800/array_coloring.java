@@ -1,5 +1,4 @@
 import java.util.*;
-import java.util.Scanner;
 
 public class array_coloring {
     public static void solve(int arr[]){
